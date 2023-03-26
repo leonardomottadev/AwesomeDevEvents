@@ -9,4 +9,4 @@ AwesomeDevEvents é um projeto de REST API desenvolvido em ASP.NET Core 7
 
 ## Screenshots
 
-[<img src="https://github.com/leo-motta/AwesomeDevEvents/blob/master/Screenshots/01_SWAGGER.jpg" width="800">](https://raw.githubusercontent.com/leo-motta/AwesomeDevEvents/master/Screenshots/01_SWAGGER.jpg)
+[<img src="https://github.com/leo-motta/AwesomeDevEvents/blob/master/Screenshots/01_SWAGGER.jpg" width="1000">](https://raw.githubusercontent.com/leo-motta/AwesomeDevEvents/master/Screenshots/01_SWAGGER.jpg)
